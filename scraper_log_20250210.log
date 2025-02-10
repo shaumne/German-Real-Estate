@@ -1,0 +1,56 @@
+2025-02-10 09:49:49,720 - INFO - Generating data for Berlin...
+2025-02-10 09:49:49,720 - INFO - Sample data created: Berlin Test Address 38
+2025-02-10 09:49:49,720 - INFO - Sample data created: Berlin Test Address 21
+2025-02-10 09:49:49,720 - INFO - Sample data created: Berlin Test Address 26
+2025-02-10 09:49:49,720 - INFO - Sample data created: Berlin Test Address 94
+2025-02-10 09:49:49,720 - INFO - Sample data created: Berlin Test Address 37
+2025-02-10 09:49:49,720 - INFO - Sample data created: Berlin Test Address 68
+2025-02-10 09:49:49,720 - INFO - Sample data created: Berlin Test Address 27
+2025-02-10 09:49:49,721 - INFO - Sample data created: Berlin Test Address 29
+2025-02-10 09:49:49,721 - INFO - Sample data created: Berlin Test Address 39
+2025-02-10 09:49:49,721 - INFO - Sample data created: Berlin Test Address 50
+2025-02-10 09:49:49,721 - INFO - Generating data for Munich...
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 83
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 3
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 44
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 20
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 29
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 40
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 9
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 61
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 45
+2025-02-10 09:49:49,721 - INFO - Sample data created: Munich Test Address 11
+2025-02-10 09:49:49,721 - INFO - Generating data for Hamburg...
+2025-02-10 09:49:49,721 - INFO - Sample data created: Hamburg Test Address 82
+2025-02-10 09:49:49,721 - INFO - Sample data created: Hamburg Test Address 20
+2025-02-10 09:49:49,722 - INFO - Sample data created: Hamburg Test Address 79
+2025-02-10 09:49:49,722 - INFO - Sample data created: Hamburg Test Address 3
+2025-02-10 09:49:49,722 - INFO - Sample data created: Hamburg Test Address 73
+2025-02-10 09:49:49,722 - INFO - Sample data created: Hamburg Test Address 47
+2025-02-10 09:49:49,722 - INFO - Sample data created: Hamburg Test Address 65
+2025-02-10 09:49:49,722 - INFO - Sample data created: Hamburg Test Address 83
+2025-02-10 09:49:49,722 - INFO - Sample data created: Hamburg Test Address 35
+2025-02-10 09:49:49,722 - INFO - Sample data created: Hamburg Test Address 85
+2025-02-10 09:49:49,722 - INFO - Generating data for Frankfurt...
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 70
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 47
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 46
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 9
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 91
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 58
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 76
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 58
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 1
+2025-02-10 09:49:49,722 - INFO - Sample data created: Frankfurt Test Address 15
+2025-02-10 09:49:49,722 - INFO - Generating data for Cologne...
+2025-02-10 09:49:49,722 - INFO - Sample data created: Cologne Test Address 21
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 20
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 35
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 65
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 50
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 87
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 83
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 24
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 13
+2025-02-10 09:49:49,723 - INFO - Sample data created: Cologne Test Address 2
+2025-02-10 09:49:49,726 - INFO - Data saved to real_estate_data_20250210.csv
